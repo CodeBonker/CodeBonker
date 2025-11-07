@@ -1,16 +1,18 @@
-## Hi there 👋
+#  About Me:
+Shikhar Navdeep<br>AI & Data Engineer<br>Delhi, India<br><br>About Me<br>I’m a computer science engineer with a focus on Artificial Intelligence and Machine Learning. I build data-driven systems that extract insights, automate workflows, and deliver real-world impact. My approach combines analytical depth with clarity in communication- whether through code, technical writing, or collaboration. I enjoy designing systems that not only work efficiently but also make sense to people who use or build upon them.<br><br>Technical Expertise<br>I work primarily in Python for AI and data science. My experience spans data preprocessing, feature engineering, statistical analysis, model training, and deployment using tools like Pandas, NumPy, Scikit-learn, PyTorch, and TensorFlow. I also understand ETL pipelines, version control with Git, and containerization with Docker. I’m exploring large language models and modern frameworks like LangGraph and RAG for integrating generative AI into analytical systems.<br><br>What I Do<br>I turn complex datasets into structured insights and build systems that support decision-making. I work on model-driven solutions, streamline workflows, and experiment with data automation. I’m particularly interested in creating tools that make AI integration more seamless, interpretable, and scalable.<br><br>Communication & Collaboration<br>Along with technical depth, I bring strong communication and writing skills. I’ve led teams, created technical documentation, and contributed to projects where clear articulation mattered as much as implementation. I aim to make complex concepts accessible without oversimplifying them.<br><br>Looking to Collaborate On<br>I’m open to collaborating on AI or data engineering projects that involve automation, model interpretability, or system integration. I also enjoy contributing to open-source initiatives that focus on improving developer workflows and intelligent data systems.<br><br>Beyond Work<br>I’m an avid cook - I find parallels between developing a recipe and writing code.
 
-<!--
-**CodeBonker/CodeBonker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shikharnavdeep/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shikharnavdeep@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=CodeBonker&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=CodeBonker&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeBonker&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=CodeBonker&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
