@@ -1,6 +1,3 @@
-# 💫 About Me:
-👋 About Me<br><br>Shikhar Navdeep<br>AI & Data Engineer | Delhi, India<br><br>I build intelligent data systems that extract insights, automate decisions, and scale efficiently.<br><br>My work blends AI engineering, data automation, and system design with a focus on clarity, structure, and performance.<br><br>I aim to make AI workflows interpretable, production-ready, and developer-centric.<br><br>🧠 Core Expertise<br><br>Python · SQL · FastAPI · Docker<br><br>LangGraph · RAG · LLM Integration · MLOps<br><br>Model Automation · Data Pipelines · API Systems<br><br>⚙️ What I Build<br><br>Platforms that transform raw data into deployable intelligence<br><br>Automated model workflows and decision-support systems<br><br>LLM-powered tools that connect data analysis with generative reasoning<br><br>💬 Beyond Code<br><br>I value communication, documentation, and collaborative engineering as much as implementation.<br><br>I’ve led teams, written technical documentation, and simplified complex AI workflows for others.<br><br>I’m an avid cook - I find parallels between developing a recipe and writing code, both requiring precision, experimentation, and balance.<br><br>🤝 Open To<br><br>Collaborating on projects in AI automation, model interpretability, and GenAI integration<br><br>Contributing to open-source systems that bridge AI reasoning with data engineering
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shikharnavdeep/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shikharnavdeep@gmail.com) 
@@ -15,4 +12,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=CodeBonker&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
